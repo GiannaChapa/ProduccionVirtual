@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmeml version="4">
+	<project>
+		<name>LS_MasterProject</name>
+		<children>
+			<clip id="masterclip-1">
+				<masterclipid>masterclip-1</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>75</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>75</out>
+				<name>Shot_1</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-1">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_1</name>
+								<enabled>TRUE</enabled>
+								<duration>75</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>75</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-1">
+									<name>Shot_1.avi</name>
+									<pathurl>file://localhost/C%3a/Users/A01285428/Documents/GitHub/ProduccionVirtual/DataSource/Renders/Escena_Acción/Shot_1.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>75</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Maps/Intro/LevelSequence/LS_Master.LS_Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_0][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-2">
+				<masterclipid>masterclip-2</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>75</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>75</out>
+				<name>Shot_4</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-2">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_4</name>
+								<enabled>TRUE</enabled>
+								<duration>75</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>75</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-2">
+									<name>Shot_4.avi</name>
+									<pathurl>file://localhost/C%3a/Users/A01285428/Documents/GitHub/ProduccionVirtual/DataSource/Renders/Escena_Acción/Shot_4.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>75</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Maps/Intro/LevelSequence/LS_Master.LS_Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_3][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-3">
+				<masterclipid>masterclip-3</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>75</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>75</out>
+				<name>Shot_2</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-3">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_2</name>
+								<enabled>TRUE</enabled>
+								<duration>75</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>75</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-3">
+									<name>Shot_2.avi</name>
+									<pathurl>file://localhost/C%3a/Users/A01285428/Documents/GitHub/ProduccionVirtual/DataSource/Renders/Escena_Acción/Shot_2.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>75</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Maps/Intro/LevelSequence/LS_Master.LS_Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_1][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<clip id="masterclip-4">
+				<masterclipid>masterclip-4</masterclipid>
+				<ismasterclip>TRUE</ismasterclip>
+				<duration>67</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<in>0</in>
+				<out>67</out>
+				<name>Shot_3</name>
+				<media>
+					<video>
+						<track>
+							<clipitem id="clipitem-4">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>TRUE</ismasterclip>
+								<name>Shot_3</name>
+								<enabled>TRUE</enabled>
+								<duration>67</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<in>0</in>
+								<out>67</out>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+								<file id="file-4">
+									<name>Shot_3.avi</name>
+									<pathurl>file://localhost/C%3a/Users/A01285428/Documents/GitHub/ProduccionVirtual/DataSource/Renders/Escena_Acción/Shot_3.avi</pathurl>
+									<rate>
+										<timebase>30</timebase>
+										<ntsc>FALSE</ntsc>
+									</rate>
+									<duration>67</duration>
+									<timecode>
+										<rate>
+											<timebase>30</timebase>
+											<ntsc>FALSE</ntsc>
+										</rate>
+										<string>00:00:00:00</string>
+										<frame>0</frame>
+									</timecode>
+									<media>
+										<video>
+											<samplecharacteristics>
+												<rate>
+													<timebase>30</timebase>
+													<ntsc>FALSE</ntsc>
+												</rate>
+												<width>1920</width>
+												<height>1080</height>
+												<anamorphic>FALSE</anamorphic>
+												<pixelaspectratio>square</pixelaspectratio>
+												<fielddominance>lower</fielddominance>
+											</samplecharacteristics>
+										</video>
+									</media>
+								</file>
+							</clipitem>
+						</track>
+					</video>
+				</media>
+				<logginginfo>
+					<description />
+					<scene />
+					<shottake />
+					<good />
+					<originalvideofilename />
+					<originalaudiofilename />
+					<lognote>[UEShotSection=/Game/Maps/Intro/LevelSequence/LS_Master.LS_Master:MovieScene_0.MovieSceneCinematicShotTrack_0.MovieSceneCinematicShotSection_2][UEShotStartOffset=0][UEShotHandleFrames=0]</lognote>
+				</logginginfo>
+				<colorinfo>
+					<lut />
+					<lut1 />
+					<asc_sop />
+					<asc_sat />
+					<lut2 />
+				</colorinfo>
+			</clip>
+			<sequence id="sequence-1">
+				<duration>294</duration>
+				<rate>
+					<timebase>30</timebase>
+					<ntsc>FALSE</ntsc>
+				</rate>
+				<name>LS_Master</name>
+				<media>
+					<video>
+						<format>
+							<samplecharacteristics>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<width>1920</width>
+								<height>1080</height>
+								<anamorphic>FALSE</anamorphic>
+								<pixelaspectratio>square</pixelaspectratio>
+								<fielddominance>lower</fielddominance>
+							</samplecharacteristics>
+						</format>
+						<track>
+							<clipitem id="clipitem-5">
+								<masterclipid>masterclip-1</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_1</name>
+								<enabled>TRUE</enabled>
+								<duration>75</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>75</start>
+								<end>150</end>
+								<in>0</in>
+								<out>75</out>
+								<file id="file-1" />
+							</clipitem>
+							<clipitem id="clipitem-6">
+								<masterclipid>masterclip-2</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_4</name>
+								<enabled>TRUE</enabled>
+								<duration>75</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>0</start>
+								<end>75</end>
+								<in>0</in>
+								<out>75</out>
+								<file id="file-2" />
+							</clipitem>
+							<clipitem id="clipitem-7">
+								<masterclipid>masterclip-3</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_2</name>
+								<enabled>TRUE</enabled>
+								<duration>75</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>150</start>
+								<end>225</end>
+								<in>0</in>
+								<out>75</out>
+								<file id="file-3" />
+							</clipitem>
+							<clipitem id="clipitem-8">
+								<masterclipid>masterclip-4</masterclipid>
+								<ismasterclip>FALSE</ismasterclip>
+								<name>Shot_3</name>
+								<enabled>TRUE</enabled>
+								<duration>67</duration>
+								<rate>
+									<timebase>30</timebase>
+									<ntsc>FALSE</ntsc>
+								</rate>
+								<start>225</start>
+								<end>292</end>
+								<in>0</in>
+								<out>67</out>
+								<file id="file-4" />
+							</clipitem>
+							<enabled>TRUE</enabled>
+							<locked>FALSE</locked>
+						</track>
+					</video>
+					<audio>
+						<numOutputChannels>1</numOutputChannels>
+						<format>
+							<samplecharacteristics>
+								<depth>16</depth>
+								<samplerate>44100</samplerate>
+							</samplecharacteristics>
+						</format>
+						<outputs>
+							<group>
+								<index>1</index>
+								<numchannels>1</numchannels>
+								<downmix>0</downmix>
+								<channel>
+									<index>1</index>
+								</channel>
+							</group>
+						</outputs>
+					</audio>
+				</media>
+				<timecode>
+					<rate>
+						<timebase>30</timebase>
+						<ntsc>FALSE</ntsc>
+					</rate>
+					<string>00:00:00:00</string>
+					<frame>0</frame>
+				</timecode>
+			</sequence>
+		</children>
+	</project>
+</xmeml>
